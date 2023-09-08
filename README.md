@@ -1,6 +1,6 @@
 # SINGLE TALK TEMPLATE REPO
 
-To fork and create a single talk on a seperate repo published with reveal-md and github pages.
+To copy and create a single talk on a seperate repo published with reveal-md and github pages.
 
 - Slides available on the following link: https://signedav.github.io/single-talk-template/presentation.html#/ (created by push on `main`)
 - Press `F11` to maximize browser window.
