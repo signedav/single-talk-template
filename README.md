@@ -7,9 +7,13 @@ To copy and create a single talk on a seperate repo published with reveal-md and
 - Press `s` to open Speaker Notes.
 - Here we go.
 
-## Programm
+## To fork it
 
-- Slides: Intro
+***In case someone else than @signedav wants to use it instead of crappy Google Slides or Power Point***
+
+![image](https://github.com/user-attachments/assets/2b371209-e078-438e-82f7-bbf2a0015a80)
+
+Additionally the note, that all final talks / presentation should be (at least) exported to PDF and archived somewhere on google-drive (since it's property of the company and no info should be only stored on personal repositories).
 
 ## Work with VSCode
 The easiest way is to install VSCode with the extension
